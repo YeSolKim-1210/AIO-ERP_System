@@ -15,7 +15,7 @@
    * 맡은 역할 분담 : 물류관리
    * 사용한 기술 :
        * FrontEnd : HTML, CSS, JS, jQuery
-       * BackEnd: Servlet, JSP, JSTL, EL, Thymeleaf, Apache Tomcat, 
+       * BackEnd: Servlet, JSP, JSTL, EL, Apache Tomcat, 
                   oracle database, Ajax, Springboot, SpringMVC, JPA
        * 협업도구 : GitHub, GooleDrive, OvenApp.io, draw.io
 
